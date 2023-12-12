@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# I'm Aksel Alp
+
+# 🌱 I’m currently learning about LLMs, CyberSec, Blockchain and Algorithms.
+# 👯 I’m looking to collaborate on open source projects.
+# 🤔 I’m looking for help with blockchain and LLM's.
+# 📫 How to reach me: https://www.linkedin.com/in/akselalp/
+
+
 <!--
 **akselalp/akselalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
