@@ -4,7 +4,7 @@
 
 ### 🌱 I’m currently learning about LLMs, CyberSec, Blockchain and Algorithms.
 ### 👯 I’m looking to collaborate on open source projects.
-### 🤔 I’m looking for help with blockchain and LLM's.
+### 🤔 I’m looking for help with backend, blockchain, LLM's.
 ### 📫 How to reach me: https://www.linkedin.com/in/akselalp/
 
 
