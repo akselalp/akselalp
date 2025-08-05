@@ -2,7 +2,7 @@
 
 ### I'm Aksel Alp
 
-### 🌱 I’m currently learning about LLMs, CyberSec/InfoSec, Blockchain and Algorithms.
+### 🌱 I’m currently learning about LLMs, AI Agents, CyberSec/InfoSec, Blockchain and Algorithms.
 ### 👯 I’m looking to collaborate on open source projects.
 ### 😁 I’m happpy to provide help with physics, engineering, biomedical eng and mathematics. 
 ### 🔎 Looking for help with backend, blockchain, LLM's and Machine Learning.
